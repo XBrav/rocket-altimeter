@@ -11,8 +11,8 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WebServer.h>
 
-const char *ssid = "Thunderbird";
-const char *password = "TheFirstLayer";
+const char *ssid = "xxxx";
+const char *password = "xxxx";
 
 ESP8266WiFiMulti wifiMulti;     // Create an instance of the ESP8266WiFiMulti class, called 'wifiMulti'
 
